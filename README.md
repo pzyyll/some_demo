@@ -4,5 +4,5 @@
 
 ## 目录
 
-* [MyCache]()
-* [RandomWeigh]()
+* [MyCache](https://github.com/pzyyll/some_demo/tree/master/mycache)
+* [RandomWeigh](https://github.com/pzyyll/some_demo/tree/master/Random_weight)
